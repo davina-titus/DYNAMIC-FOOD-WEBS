@@ -1,3 +1,6 @@
+// DAVINA TITUS
+// PROJECT 2 
+// CS 211 - FOOD WEB DEV
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
