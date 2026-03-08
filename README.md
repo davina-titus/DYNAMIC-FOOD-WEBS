@@ -27,3 +27,15 @@ a species ripples through an entire ecosystem.
 
 ## How to Run
 ```bash
+gcc -o foodwebs main.c
+./foodwebs
+```
+
+## What I Learned
+Building this project deepened my understanding of how graph structures 
+map to real-world systems, and sharpened my skills in manual memory 
+management and recursive thinking in C — concepts that directly inform 
+how I approach backend system design today.
+
+---
+*Part of CS coursework @ University of Illinois Chicago*
